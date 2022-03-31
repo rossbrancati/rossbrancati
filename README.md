@@ -1,8 +1,5 @@
-PhD student at UMass Amherst
+Interested in applying data science methods to understand human movement patterns
 
-Interested in using data science methods to understand the complex behavior of human movement
-
-rbrancati@umass.ede
 
 
 <!---
