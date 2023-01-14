@@ -1,4 +1,4 @@
-Interested in applying data science methods to understand human movement patterns
+Interested in optimizing human performance, data science, and machine learning. 
 
 
 
