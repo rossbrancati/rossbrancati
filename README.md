@@ -1,4 +1,4 @@
-Interested in optimizing human performance, data science, and machine learning. 
+Interested in all things data science, human performance, and tech.
 
 
 
